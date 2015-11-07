@@ -7,5 +7,4 @@ comments: true
 
 
 ## 向量
-
-![](images/Tulips.jpg)
+lxq ![Alt text](/images/Tulips.jpg)
