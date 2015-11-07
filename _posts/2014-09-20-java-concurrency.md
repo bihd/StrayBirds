@@ -7,4 +7,4 @@ comments: true
 
 
 ## 向量
-lxq ![Alt text](../images/Tulips.jpg)
+lxq ![Alt text](http://bihd.github.io/blog/images/Tulips.jpg)
