@@ -8,4 +8,4 @@ comments: true
 
 ## 向量
 
-![](Tulips.jpg)
+![](images/Tulips.jpg)
