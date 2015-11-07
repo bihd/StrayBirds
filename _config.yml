@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: bihd
-baseurl: /StrayBirds
+baseurl: /bihd.github.io
 markdown: redcarpet
 safe: false
 highlighter: pygments
